@@ -1,0 +1,11 @@
+datos (Sistema: PostgreSQL, Servidor: postgres-db, Usuario: heo, Contraseña: password_segura, Base de datos: heo_db)
+
+Motor: PostgreSQL
+
+Servidor: postgres-db
+
+Usuario: heo
+
+Contraseña: password_segura
+
+Base de datos: heo_db 
